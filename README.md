@@ -137,7 +137,7 @@ This project is a joint effort by:
 
 ## 📃 License
 
-Licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+Licensed under the [Apache License 2.0](LICENSE).
 See the `LICENSE` file for more information.
 
 ---
